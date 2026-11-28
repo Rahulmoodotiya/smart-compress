@@ -189,3 +189,16 @@ Build and QA one page at a time: first Image Converter, then Image Compressor, t
 - [ ] Preview/browser/mobile QA and structured data review.
 - [ ] Confirm copy/claims against implementation before merge.
 - [ ] Production remains unchanged.
+
+
+## Step 9 — Compress JPG landing page draft built (SEO branch only)
+
+- [x] Created `/compress-jpg/` focused on JPG/JPEG compression intent.
+- [x] Added unique title, description, canonical, Open Graph and WebApplication metadata.
+- [x] Added compression workflow, quality trade-offs, optional resizing, use cases and 5 FAQs.
+- [x] Added FAQ structured data matching visible FAQs.
+- [x] Added internal links from homepage and converter page.
+- [x] Added URL to sitemap.
+- [ ] Browser/mobile preview QA and metadata/schema validation.
+- [ ] Verify copy and behavior against app before merge.
+- [ ] Production remains untouched.
