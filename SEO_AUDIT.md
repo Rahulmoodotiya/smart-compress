@@ -202,3 +202,15 @@ Build and QA one page at a time: first Image Converter, then Image Compressor, t
 - [ ] Browser/mobile preview QA and metadata/schema validation.
 - [ ] Verify copy and behavior against app before merge.
 - [ ] Production remains untouched.
+
+
+## Step 10 — Compress PNG landing page draft built (SEO branch only)
+
+- [x] Created `/compress-png/` focused on PNG compression intent.
+- [x] Added metadata, canonical, Open Graph, WebApplication and FAQ structured data.
+- [x] Added transparency guidance, resize tips, workflow and 5 visible FAQs.
+- [x] Added internal links from homepage and JPG page.
+- [x] Added URL to sitemap.
+- [ ] Preview/browser/mobile QA and schema validation.
+- [ ] Confirm functionality and page claims against the tool.
+- [ ] Production remains unchanged.
