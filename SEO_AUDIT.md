@@ -93,6 +93,7 @@ Keyword targets below are intent-based hypotheses, not verified search-volume or
 - Browser-side processing / images not uploaded
 - Batch up to 20 images (current product limit)
 - JPG, PNG, WebP support
+- Image format conversion among supported output formats (confirmed in source: output MIME options JPEG/PNG/WebP)
 - Individual downloads and ZIP batch download
 - Free tool
 
