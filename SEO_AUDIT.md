@@ -106,3 +106,14 @@ Keyword targets below are intent-based hypotheses, not verified search-volume or
 - [ ] Check keyword volumes/difficulty with a dedicated keyword tool before selecting exact titles/URLs.
 - [ ] Review homepage title/H1 and supporting copy against the primary intent.
 - [ ] Build an SEO landing-page plan with URL, intent, unique content, feature fit and internal links; avoid mass/thin pages.
+
+
+## Step 4 — Homepage on-page SEO draft (SEO branch only)
+
+- [x] Proposed and applied title emphasizing image compressor + converter and JPG/PNG/WebP (SEO branch; production main unchanged).
+- [x] Meta description updated to describe compression, conversion, free use, batch up to 20, and browser privacy (SEO branch).
+- [x] Open Graph and Twitter title/description aligned (SEO branch).
+- [x] H1 changed from brand-only slogan to descriptive compression/conversion intent, retaining a secondary benefit line (SEO branch).
+- [x] SoftwareApplication description and feature list updated to include conversion (SEO branch).
+- [ ] Review visual appearance and functionality in preview/deployment before merge.
+- [ ] Check title/meta length, page headings, and feature claims against live app.
