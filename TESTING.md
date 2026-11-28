@@ -26,6 +26,8 @@ Last checklist review: 2026-11-28.
 - [x] Homepage SEO metadata and structured data present.
 - [x] Sitemap and robots file present.
 - [x] Added standalone FAQ, JPG, PNG, WebP guides, privacy and terms pages; linked from homepage and sitemap.
+- [x] Added six use-case SEO pages (website, email, WhatsApp, KB target, resize, format conversion) with canonical metadata and homepage footer links.
+- [x] Expanded sitemap to include the new SEO pages.
 
 ## Runtime tests still required (not marked PASS without actual device/browser execution)
 - [ ] JPG -> JPG output decodes and visually compares.
