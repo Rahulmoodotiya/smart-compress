@@ -172,6 +172,8 @@ Build and QA one page at a time: first Image Converter, then Image Compressor, t
 - [x] Added format explanations, conversion how-to, common conversion intent cards, privacy/batch notes and visible FAQs.
 - [x] Added internal link from homepage to converter page.
 - [x] Added converter URL to sitemap on SEO branch.
-- [ ] Validate page in a preview deployment/browser, mobile layout and CTA destination.
+- [x] CTA destination corrected to homepage root (no unverified anchor).
+- [x] Added FAQPage structured data matching visible FAQs.
+- [ ] Validate page in a preview deployment/browser and mobile layout.
 - [ ] Validate structured data and XML sitemap.
 - [ ] Check all conversion claims against live functionality; no production deployment yet.
