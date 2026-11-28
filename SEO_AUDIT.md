@@ -24,8 +24,9 @@ Production was NOT changed during this audit.
 - [x] HTTPS: page served over HTTPS (user-provided evidence).
 - [x] Sitemap submission exists for `/sitemap.xml` (user-provided evidence).
 - [ ] Sitemap status: Search Console screenshot shows `Couldn't fetch` (user-provided evidence); investigate live response and resubmit only after validation.
-- [ ] Confirm sitemap live response/status/content-type in a browser; external audit fetch was inconclusive.
-- [ ] Inspect sitemap details for last-read/errors/discovered URLs.
+- [x] User screenshot confirms `https://smart-compress.pages.dev/sitemap.xml` opens and displays valid sitemap XML with homepage URL.
+- [ ] HTTP status/content-type not independently verified; browser XML rendering is evidence of accessibility, not a full HTTP audit.
+- [ ] Inspect sitemap details for last-read/errors/discovered URLs and retry submission after validation.
 - [ ] User account/Search Console access is not available to this audit, so account-specific checks rely on screenshots.
 
 ## Pending validation
