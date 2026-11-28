@@ -52,6 +52,15 @@ The repository is configured as a static-site project and is deployed using Clou
 
 The code includes safeguards and status messages, but this README does not claim exhaustive cross-browser/device testing. Please see [TESTING.md](TESTING.md) for the current testing notes and checklist.
 
+## Helpful pages
+
+- [FAQ](https://smart-compress.pages.dev/faq.html)
+- [Compress JPG guide](https://smart-compress.pages.dev/guide-jpg.html)
+- [Compress PNG guide](https://smart-compress.pages.dev/guide-png.html)
+- [Compress WebP guide](https://smart-compress.pages.dev/guide-webp.html)
+- [Privacy policy](https://smart-compress.pages.dev/privacy.html)
+- [Terms of use](https://smart-compress.pages.dev/terms.html)
+
 ## Repository
 
 - `index.html` — app and interface
