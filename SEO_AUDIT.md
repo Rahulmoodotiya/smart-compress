@@ -20,10 +20,13 @@ Production was NOT changed during this audit.
 
 ## Step 2 — Google indexing check (2026-11-28)
 
-- [ ] Public Google search query for the site did not return a result in this check. This is INCONCLUSIVE, not proof the homepage is not indexed.
-- [ ] Search Console URL Inspection: inspect the exact homepage URL and record whether it is indexed, crawl allowed, canonical selected, and last crawl.
-- [ ] Search Console Sitemaps: confirm sitemap submitted and status.
-- [ ] User account/Search Console access is not available to this audit, so these account-specific checks require a screenshot or connected access.
+- [x] Search Console URL Inspection screenshot: homepage `https://smart-compress.pages.dev/` is ON GOOGLE and Page is indexed (user-provided evidence).
+- [x] HTTPS: page served over HTTPS (user-provided evidence).
+- [x] Sitemap submission exists for `/sitemap.xml` (user-provided evidence).
+- [ ] Sitemap status: Search Console screenshot shows `Couldn't fetch` (user-provided evidence); investigate live response and resubmit only after validation.
+- [ ] Confirm sitemap live response/status/content-type in a browser; external audit fetch was inconclusive.
+- [ ] Inspect sitemap details for last-read/errors/discovered URLs.
+- [ ] User account/Search Console access is not available to this audit, so account-specific checks rely on screenshots.
 
 ## Pending validation
 
