@@ -177,3 +177,15 @@ Build and QA one page at a time: first Image Converter, then Image Compressor, t
 - [ ] Validate page in a preview deployment/browser and mobile layout.
 - [ ] Validate structured data and XML sitemap.
 - [ ] Check all conversion claims against live functionality; no production deployment yet.
+
+
+## Step 8 — Image Resizer landing page draft built (SEO branch only)
+
+- [x] Created `/image-resizer/` with distinct image-resizing intent.
+- [x] Added title, description, canonical, Open Graph and WebApplication metadata.
+- [x] Added presets/custom dimensions, aspect ratio, steps, use cases and visible FAQs.
+- [x] Added internal links from homepage and converter page.
+- [x] Added URL to sitemap.
+- [ ] Preview/browser/mobile QA and structured data review.
+- [ ] Confirm copy/claims against implementation before merge.
+- [ ] Production remains unchanged.
