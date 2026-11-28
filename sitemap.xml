@@ -11,4 +11,5 @@
     <priority>0.8</priority>
   </url>
   <url><loc>https://smart-compress.pages.dev/image-resizer/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://smart-compress.pages.dev/compress-jpg/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
