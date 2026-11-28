@@ -117,3 +117,15 @@ Keyword targets below are intent-based hypotheses, not verified search-volume or
 - [x] SoftwareApplication description and feature list updated to include conversion (SEO branch).
 - [ ] Review visual appearance and functionality in preview/deployment before merge.
 - [ ] Check title/meta length, page headings, and feature claims against live app.
+
+
+## Step 5 — On-page content and FAQ optimization (SEO branch only)
+
+- [x] SEO section heading now targets image compression and conversion.
+- [x] Intro copy explains compressor/converter use cases and output-format selection.
+- [x] Added conversion explainer for JPG, PNG and WebP, including JPG transparency flattened to white.
+- [x] Added visible conversion FAQ.
+- [x] Added matching FAQ structured-data question/answer.
+- [ ] Validate FAQ schema and page structure after preview.
+- [ ] Check internal links and page UX on mobile.
+- [ ] Merge/deploy only after review and QA.
