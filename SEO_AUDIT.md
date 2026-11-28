@@ -65,3 +65,43 @@ Production was NOT changed during this audit.
 
 ## Status definitions
 PASS = evidence verified. REPORTED PASS = user-reported, not independently reproduced. INCONCLUSIVE = access/network limitations. PENDING = not tested.
+
+
+## Step 3 — Initial keyword intent map (research draft)
+
+Keyword targets below are intent-based hypotheses, not verified search-volume or difficulty metrics. Validate with Search Console and a keyword tool before prioritizing.
+
+### Primary homepage intent
+- image compressor online
+- compress image online
+- image size reducer
+- reduce image file size
+
+### Format-specific intents (potential dedicated pages only if the page offers genuinely useful, distinct guidance/tool UX)
+- compress JPG / JPEG online
+- compress PNG online
+- compress WebP online
+
+### Task/use-case intents (do not create thin pages; page must support the promise)
+- compress images for website
+- reduce photo size for upload
+- compress multiple images / batch image compressor
+- compress image without uploading / private image compressor
+- compress image free
+
+### Differentiators to emphasize accurately
+- Browser-side processing / images not uploaded
+- Batch up to 20 images (current product limit)
+- JPG, PNG, WebP support
+- Individual downloads and ZIP batch download
+- Free tool
+
+### Competitor SERP observations (qualitative)
+- Competitors commonly emphasize browser-local privacy, batch processing, format selection, quality control, target-KB sizing, resize controls and preview comparisons.
+- SmartCompress should only advertise features actually implemented. Target-size mode, resize controls, extra formats and preview comparison are potential product gaps—not SEO copy to claim today.
+
+### Next validation
+- [ ] Export Search Console Performance queries once impressions accumulate.
+- [ ] Check keyword volumes/difficulty with a dedicated keyword tool before selecting exact titles/URLs.
+- [ ] Review homepage title/H1 and supporting copy against the primary intent.
+- [ ] Build an SEO landing-page plan with URL, intent, unique content, feature fit and internal links; avoid mass/thin pages.
