@@ -129,3 +129,37 @@ Keyword targets below are intent-based hypotheses, not verified search-volume or
 - [ ] Validate FAQ schema and page structure after preview.
 - [ ] Check internal links and page UX on mobile.
 - [ ] Merge/deploy only after review and QA.
+
+
+## Step 6 — Landing page architecture (prioritized draft)
+
+Strategy: create focused, genuinely useful landing pages around distinct user intents, with the shared compression/conversion tool and accurate feature claims. Avoid doorway/thin pages and avoid creating pages until they have unique copy, instructions, examples, FAQs, and crawlable links.
+
+### Priority 1 — Core intent pages
+1. `/image-compressor/` — image compressor online; compress JPG, PNG, WebP; batch, privacy, compression settings.
+2. `/image-converter/` — convert JPG/PNG/WebP; explain output selection and transparency behavior.
+3. `/image-resizer/` — resize images; presets/custom dimensions/aspect ratio (confirm controls in live UI).
+
+### Priority 2 — Format-specific compression pages
+4. `/compress-jpg/` — JPG/JPEG compression, quality and photo use cases.
+5. `/compress-png/` — PNG compression; explain lossless/size trade-offs accurately and transparent images.
+6. `/compress-webp/` — WebP compression and compatibility/use cases.
+
+### Priority 3 — Specific conversion-intent pages (build only after validating UI and content value)
+7. `/jpg-to-webp/`
+8. `/png-to-jpg/`
+9. `/webp-to-png/`
+10. `/jpg-to-png/`
+
+### Page template (unique content required)
+- One unique title, meta description and H1 matching page intent.
+- Short intro explaining the task and supported inputs/outputs.
+- Tool area or prominent link to the tool with relevant settings preselected only if functionality supports it.
+- Step-by-step instructions (3–5 steps).
+- Benefits/limitations and transparency notes (privacy, file limits, output quality, JPG transparency flattening).
+- 3–5 unique FAQs; structured data only if visible FAQ is present and eligible.
+- Related tools/pages internal links with descriptive anchors.
+- Canonical URL, breadcrumbs if appropriate, and sitemap inclusion.
+
+### Publishing order
+Build and QA one page at a time: first Image Converter, then Image Compressor, then Image Resizer, then format pages. Do keyword-volume/difficulty validation before final slug/title selection. Landing-page build is pending; this is architecture only.
