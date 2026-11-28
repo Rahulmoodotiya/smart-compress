@@ -163,3 +163,15 @@ Strategy: create focused, genuinely useful landing pages around distinct user in
 
 ### Publishing order
 Build and QA one page at a time: first Image Converter, then Image Compressor, then Image Resizer, then format pages. Do keyword-volume/difficulty validation before final slug/title selection. Landing-page build is pending; this is architecture only.
+
+
+## Step 7 — Image Converter landing page draft built (SEO branch only)
+
+- [x] Created `/image-converter/` standalone HTML page with distinct search intent and copy.
+- [x] Added title, description, canonical, Open Graph and WebApplication structured data.
+- [x] Added format explanations, conversion how-to, common conversion intent cards, privacy/batch notes and visible FAQs.
+- [x] Added internal link from homepage to converter page.
+- [x] Added converter URL to sitemap on SEO branch.
+- [ ] Validate page in a preview deployment/browser, mobile layout and CTA destination.
+- [ ] Validate structured data and XML sitemap.
+- [ ] Check all conversion claims against live functionality; no production deployment yet.
