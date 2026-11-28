@@ -214,3 +214,15 @@ Build and QA one page at a time: first Image Converter, then Image Compressor, t
 - [ ] Preview/browser/mobile QA and schema validation.
 - [ ] Confirm functionality and page claims against the tool.
 - [ ] Production remains unchanged.
+
+
+## Step 11 — Compress WebP landing page draft built (SEO branch only)
+
+- [x] Created `/compress-webp/` focused on WebP compression intent.
+- [x] Added metadata, canonical, Open Graph, WebApplication and FAQ structured data.
+- [x] Added compression workflow, quality/dimensions/compatibility tips and FAQs.
+- [x] Added internal links from homepage and PNG page.
+- [x] Added URL to sitemap.
+- [ ] Preview/browser/mobile QA and schema validation.
+- [ ] Verify copy against actual app behavior.
+- [ ] Production remains unchanged.
