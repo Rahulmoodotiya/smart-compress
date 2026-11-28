@@ -18,6 +18,13 @@ Production was NOT changed during this audit.
 - [x] sitemap.xml includes canonical homepage URL only.
 - [x] Homepage has descriptive visible copy and quick-use sections.
 
+## Step 2 — Google indexing check (2026-11-28)
+
+- [ ] Public Google search query for the site did not return a result in this check. This is INCONCLUSIVE, not proof the homepage is not indexed.
+- [ ] Search Console URL Inspection: inspect the exact homepage URL and record whether it is indexed, crawl allowed, canonical selected, and last crawl.
+- [ ] Search Console Sitemaps: confirm sitemap submitted and status.
+- [ ] User account/Search Console access is not available to this audit, so these account-specific checks require a screenshot or connected access.
+
 ## Pending validation
 
 - [ ] Fetch live HTML and compare it to source (network checks previously inconclusive).
